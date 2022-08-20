@@ -1,0 +1,495 @@
+  .btn{
+    background-color: #FF5043;
+        width: 200px;
+    height: 50px;
+    float:right;
+}
+.logo
+{
+    color: black;
+}
+.discover-our-work {
+  color: #FFFFFF;
+  font-family: Mont;
+  font-size: 15px;
+  letter-spacing: 5.4px;
+  line-height: 22px;
+  text-align: left;
+}
+.oval {
+  border: 1px solid #979797;
+  border-radius: 100%;
+  width: 56px;
+  height: 56px;
+}
+.oval-copy {
+  border: 1px solid #979797;
+  border-radius: 100%;
+  opacity: 0.5;
+  width: 56px;
+  height: 56px;
+}
+
+.path-9413-copy {
+  background-color: #FFFFFF;
+  opacity: 0.5;
+}
+.we-are-local-yet-gl {
+    font-family: Mont;
+  font-size: 50px;
+  letter-spacing: -0.35px;
+  line-height: 60px;
+  text-align: left;
+ 
+}
+.betacraft-is-a-trust {
+  color: #23293C;
+  font-family: SFProDisplay;
+  font-size: 20px;
+  letter-spacing: 0.1px;
+  line-height: 32px;
+  width: 515px;
+  text-align: left;
+}
+.who-we-are {
+  color: #0E0D12;
+  font-family: SF Pro;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 22px;
+  text-align: left;
+padding-top: 100px;
+}
+
+.discover-more {
+  color: #0E0D12;
+  font-family: SF Pro;
+  font-size: 18px;
+  letter-spacing: 5.4px;
+  line-height: 22px;
+  text-align: left;
+}
+.services {
+  color: #0E0D12;
+  font-family: SF Pro;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 22px;
+  text-align: left;
+  padding-top: 100px;
+  
+}
+
+.design-innovation {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+
+.digital-product-engi {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+.cloud-adoptation-ser {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+
+.data-analytics {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+.digital-marketing-st {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+.logo{
+  float: right;
+
+  
+}
+
+.industries {
+  color: #0E0D12;
+  font-family: SF Pro;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 22px;
+  text-align: left;
+  padding-top: 100px;
+}
+
+
+.our-expertise-and-so {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 50px;
+  letter-spacing: -0.35px;
+  line-height: 80px;
+  text-align: left;
+}
+
+.rectangle {
+  background-color: #F5F5F7;
+  border-radius: 24px;
+  width: 100px;
+  height: 400px;
+
+}
+.card{
+ 
+  padding-top: 100px;
+}
+.it-is-a-long-establi {
+  color: #23293C;
+  font-family: SFProDisplay;
+  font-size: 20px;
+  letter-spacing: 0.1px;
+  line-height: 30px;
+  width: 200px;
+  text-align: left;
+  padding-bottom: 0px;
+}
+.cardlogo{
+  margin-left: 50px;
+}
+.it-is-a-long-establi-copy {
+  color: #23293C;
+  font-family: SFProDisplay;
+  font-size: 20px;
+  letter-spacing: 0.1px;
+  line-height: 30px;
+  width: 200px;
+  text-align: left;
+  padding-bottom: 0px;
+}
+
+.travel-hospitality {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  letter-spacing: -0.29px;
+  line-height: 40px;
+  width: 450px;
+
+  text-align: left;
+}
+.blockchain {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  letter-spacing: -0.29px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.manufacturing {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  letter-spacing: -0.29px;
+  line-height: 40px;
+  width: 317px;
+  text-align: left;
+}
+
+.electric-vehicle {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  letter-spacing: -0.29px;
+  line-height: 44px;
+  text-align: left;
+  width: 317px;
+}
+
+.rectangle-img {
+  background-color: #F5F5F7;
+  border-radius: 24px;
+  width: 100px;
+  height: 300px;
+}
+
+.lorem-ipsum-is-simpl {
+  color: #021C29;
+  font-family: Mont;
+  font-size: 32px;
+  line-height: 48px;
+  width: 848px;
+  text-align: center;
+  position: relative;
+  top:80px;
+}
+.cardoverimage{
+  background-color: #F5F5F7;
+  border-radius: 24px;
+  width: 70%;
+  height: 450px;
+  margin-top: -300px;
+ 
+}
+
+.oval {
+  background-color: #FF5043;
+  border-radius: 100%;
+  box-shadow: 0 2px 4px 0 rgba(169, 169, 169, 0.3);
+  width: 56px;
+  height: 56px;
+  margin: auto;
+  color: white;
+  position: relative;
+  top:70px;
+  
+
+ 
+}
+.radius
+{
+  border-radius: 50px !important;
+margin: auto;
+align-items: center;
+position: relative;
+top:100px;
+}
+.bill
+{
+  position: relative;
+  top:120px;
+}
+.view{
+  position: relative;
+  top:150px;
+}
+
+.our-global-reach {
+  color: #0E0D12;
+  font-family: SF Pro;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 22px;
+  text-align: center;
+  padding-top: 100px;
+}
+.our-clients-love-us {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 50px;
+  letter-spacing: -0.35px;
+  line-height: 80px;
+  text-align: center;
+}
+.imgicon{
+  width:"10px";
+  height:"5px" ;
+}
+
+.dash{
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  width: 22px;
+  height: 8px;
+  margin-left: 600px;
+}
+.circle{
+  
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    opacity: 0.6000000238418579;
+    width: 8px;
+    height: 8px;
+    margin-left: 630px;
+    position: relative;
+    top:-7px;
+}
+
+.circle1{
+  
+  background-color: #FFFFFF;
+  border-radius: 100%;
+  opacity: 0.6000000238418579;
+  width: 8px;
+  height: 8px;
+  margin-left: 645px;
+  position: relative;
+  top:-15px;
+}
+
+.careers {
+  color: #0E0D12;
+  font-family: SF Pro;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 22px;
+  text-align: left;
+}
+
+
+.benefits {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+.interview-process {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+
+.opportunities {
+  color: #23293C;
+  font-family: Mont;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+
+.blogs-news-event {
+  color: #0E0D12;
+  font-family: SF Pro;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 22px;
+  text-align: left;
+}
+
+.latest-insights {
+ 
+  font-family: Mont;
+  font-size: 72px;
+  letter-spacing: -0.35px;
+  line-height: 80px;
+  text-align: left;
+}
+.jointeam{
+  
+    background-image: linear-gradient(180deg, rgba(32, 30, 41, 0) 0%, #0E0D12 100%);
+    border-radius: 24px;
+    width: 500px;
+    height: 500px;
+  
+}
+.lorem-ipsum-is-simpl-copy-3 {
+  color: black;
+  font-family: SFProDisplay;
+  font-size: 25px;
+  line-height: 42px;
+  width: 400px;
+  text-align: left;
+}
+.textoverimg{
+  position: relative;
+  top:-200px;
+  margin-left: 10px;
+
+}
+.blogimg{
+  background-color: #F5F5F7;
+  border-radius: 24px;
+  width: 245px;
+  height: 220px;
+  float: right;
+
+}
+.sideimg{
+  background-color: #F5F5F7;
+  border-radius: 24px;
+  width: 600px;
+  height: 220px;
+  margin-left: 100px;
+  padding-left: 15px;
+  
+ 
+}
+.lorem-ipsum-is-simpl-copy-4 {
+  color: #021C29;
+  font-family: SFProDisplay;
+  font-size: 20px;
+  line-height: 30px;
+  width: 300px;
+  text-align: left;
+}
+
+.sideimg2{
+  background-color: #F5F5F7;
+  border-radius: 24px;
+  width: 600px;
+  height: 220px;
+  margin-left: 100px;
+  padding-left: 15px;
+  padding-right: 15px;
+  
+  text-align: right;
+  
+ 
+}
+
+.blogimg2{
+  background-color: #F5F5F7;
+  border-radius: 24px;
+  width: 245px;
+  height: 220px;
+  float: left;
+  margin-left: 100px;
+
+}
+
+.news-4-min-read {
+  color: #021C29;
+  font-family: SFProDisplay;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: 30px;
+  text-align: left;
+  margin-left: 270px;
+  
+ 
+}
+
+.lorem-ipsum-is-simpl-copy-5 {
+  color: #021C29;
+  font-family: SFProDisplay;
+  font-size: 24px;
+  line-height: 30px;
+  width: 303px;
+  text-align: left;
+}
+.textonimg{
+position: relative;
+top:-450px;
+}
+
+.our-work {
+  
+  font-family: Mont;
+  font-size: 72px;
+  letter-spacing: -0.5px;
+  line-height: 80px;
+  text-align: center;
+}
+
+.next-stop {
+  color: #FFFFFF;
+  font-family: SF Pro;
+  font-size: 22px;
+  letter-spacing: 2.44px;
+  line-height: 26px;
+  
+}
